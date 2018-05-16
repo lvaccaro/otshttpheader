@@ -1,0 +1,18 @@
+{
+  "name": "otshttpheader",
+  "version": "0.0.1",
+  "description": "Include OpenTimestamps proofs into `ots` http response header tag.",
+  "main": "express.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvaccaro/otshttpheader.git"
+  },
+  "author": "Luca Vaccaro",
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "express": "^4.16.3",
+    "javascript-opentimestamps": "^0.4.0",
+    "moment-timezone": "^0.5.17",
+    "request": "^2.86.0"
+  }
+}
