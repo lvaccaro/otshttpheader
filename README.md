@@ -2,7 +2,7 @@
 Include OpenTimestamps proofs into `ots` http response header tag.
 
 ### Run server
-Server read static file, from `examples, directory and 
+Server read static files, from `examples`, directory and 
 add ots proof, from `examples-proof`, in the response header in base64 format.
 Start a web server on port 3000.
 ```
